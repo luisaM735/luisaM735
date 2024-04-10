@@ -7,6 +7,7 @@ Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/
   - Python  
   - HTML/CSS
   - JavaScript
+
 🌞**I’m currently learning:**
 - PHP
 ⚡ Fun fact: 
