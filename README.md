@@ -1,5 +1,5 @@
 ## Hi, I’m Luisa
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
+[![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
 [![Linkedin Badge](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 
