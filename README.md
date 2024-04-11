@@ -1,9 +1,8 @@
 ## Hi, I’m Luisa
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
-<iframe src="https://giphy.com/embed/DKyjRV7y5AcOswAlBr" width="480" height="90" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/girlsinstem-change-coding-changing-the-world-DKyjRV7y5AcOswAlBr">via GIPHY</a></p>
 
-<img align="right" src="[https://giphy.com/embed/DKyjRV7y5AcOswAlBr](https://giphy.com/stickers/girlsinstem-change-coding-changing-the-world-DKyjRV7y5AcOswAlBr)" alt="Coder GIF" width="420" height="330">
+<img align="right" src="[https://giphy.com/embed/DKyjRV7y5AcOswAlBr](https://giphy.com/stickers/girlsinstem-change-coding-changing-the-world-DKyjRV7y5AcOswAlBr" alt="Coder GIF" width="420" height="330">
 
 Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
 
