@@ -1,4 +1,6 @@
 ## Hi, I’m Luisa
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
+&nbsp;
 [![Linkedin Badge](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 
 Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
@@ -11,6 +13,7 @@ Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/
 
 🌞**I’m currently learning:**
 - PHP
+  
 ⚡ Fun fact: 
 
 <!---
