@@ -5,7 +5,7 @@
 Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
 
  🌱**I’m interested in coding my creativity with:**
-  - C/C++
+  - C/C++ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   - Python  
   - HTML/CSS
   - JavaScript
