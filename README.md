@@ -2,7 +2,9 @@
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
 
-![Coder Gif](![readmegif](https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279)
+<img src="![readmegif](https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279" alt="Coder GIF" width="400" height="300">
+
+
 
 Portfolio website: [Portfolio]((https://luisam735.github.io/))
 
