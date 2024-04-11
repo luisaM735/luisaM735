@@ -2,7 +2,10 @@
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
 
-<img align="right" src="[https://giphy.com/embed/DKyjRV7y5AcOswAlBr](https://giphy.com/stickers/girlsinstem-change-coding-changing-the-world-DKyjRV7y5AcOswAlBr](https://media.giphy.com/media/jBN1hXQCieS26Ba6iB/giphy.gif)" alt="Coder GIF" width="420" height="330">
+<iframe src="https://giphy.com/embed/vi9q6kkhLiJVx3L8TO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-forever-code-the-coding-space-vi9q6kkhLiJVx3L8TO">via GIPHY</a></p>
+
+
+<img align="right" src="https://giphy.com/embed/vi9q6kkhLiJVx3L8TO" alt="Coder GIF" width="420" height="330">
 
 Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
 
