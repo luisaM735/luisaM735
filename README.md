@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
 
-<img align="right" src="https://giphy.com/embed/vi9q6kkhLiJVx3L8TO](https://media2.giphy.com/media/UcQSokPVOjz1eBX9G2/200w.gif?cid=6c09b952xn74wvzc8g6pt3jdisfg4hp3f6gijwvcrkoainoo&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Coder GIF" width="480" height="330" class="giphy-embed" allowFullScreen>
+<img align="right" src="C:\Users\Luisa\OneDrive\Documents\GitHub\readmegif.gif" alt="Coder GIF" width="480" height="330" class="giphy-embed" allowFullScreen>
 
-Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
+
 
  🌱**I’m interested in coding my creativity with:**
   - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
