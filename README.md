@@ -2,8 +2,7 @@
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirls-can-code-too%3Fsort%3Drelevant&psig=AOvVaw3dTIpxo13cLOb5-yeN-Pro&ust=1712955923804000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC3jKSIu4UDFQAAAAAdAAAAABAE))
-
+<img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirls-can-code-too%3Fsort%3Drelevant&psig=AOvVaw3dTIpxo13cLOb5-yeN-Pro&ust=1712955923804000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC3jKSIu4UDFQAAAAAdAAAAABAE" alt="Coder GIF" width="420" height="330">
 
 Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
 
