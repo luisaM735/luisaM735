@@ -1,8 +1,9 @@
 ## Hi, I’m Luisa
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
+<iframe src="https://giphy.com/embed/DKyjRV7y5AcOswAlBr" width="480" height="90" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/girlsinstem-change-coding-changing-the-world-DKyjRV7y5AcOswAlBr">via GIPHY</a></p>
 
-<img align="right" src="https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirls-can-code-too%3Fsort%3Drelevant&psig=AOvVaw3dTIpxo13cLOb5-yeN-Pro&ust=1712955923804000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMC3jKSIu4UDFQAAAAAdAAAAABAE](https://media2.giphy.com/media/UcQSokPVOjz1eBX9G2/200w.gif?cid=6c09b952xn74wvzc8g6pt3jdisfg4hp3f6gijwvcrkoainoo&ep=v1_gifs_search&rid=200w.gif&ct=g)" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://giphy.com/embed/DKyjRV7y5AcOswAlBr" alt="Coder GIF" width="420" height="330">
 
 Portfolio website: [Portfolio](file:///C:/Users/Luisa/OneDrive/Documents/GitHub/Portfolio/luisaM735.github.io/luisaM735.github.io/index.html)
 
