@@ -4,7 +4,8 @@
 
 Portfolio website: [Portfolio]((https://luisam735.github.io/))
 
-![Coder Gif](![readmegif](https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279)
+
+![readmegif](https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279)
 
 
 
@@ -20,7 +21,8 @@ Portfolio website: [Portfolio]((https://luisam735.github.io/))
 🌞**I’m currently learning:**
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
-⚡ Fun fact: 
+>![IMPORTANT]
+> pending....
 
 <!---
 luisaM735/luisaM735 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
