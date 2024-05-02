@@ -2,13 +2,8 @@
 [![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 &nbsp;
 
-Portfolio website: [Portfolio]((https://luisam735.github.io/))
 
-
-![readmegif](https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279)
-
-
-
+<img src="https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279" width="500" height="300">
 
 
  🌱**I’m interested in coding my creativity with:**
@@ -20,9 +15,11 @@ Portfolio website: [Portfolio]((https://luisam735.github.io/))
 
 🌞**I’m currently learning:**
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
   
->![IMPORTANT]
-> pending....
+>[!IMPORTANT]
+> Code with brains. Create with soul.
 
 <!---
 luisaM735/luisaM735 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
