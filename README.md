@@ -1,6 +1,5 @@
 ## Hi, I’m Luisa
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/luisa-martinez-0a495b25a/))
-&nbsp;
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
 
 
 <img src="https://github.com/luisaM735/luisaM735/assets/135564937/69e359d6-9b87-49ff-845c-aa01777cb279" width="500" height="300">
