@@ -1,5 +1,5 @@
 ## Hi, I’m Luisa
-[![Linkedin Badge](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/luisa-martinez-0a495b25a/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/luisa-martinez-0a495b25a/))
 &nbsp;
 
 
@@ -20,7 +20,7 @@
 >[!IMPORTANT]
 > Code with brains. Create with soul.
 
->[!CAUTION]
+>[!TIP]
 > Make sure to have your rubber duck handy! 🐥
 
 <!---
